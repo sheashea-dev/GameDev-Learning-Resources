@@ -1,9 +1,11 @@
 # GameDev-Learning-Resources
-* Development ->
+___
+* # Development Software
   * 2D Art:
     * [Libresprite](https://libresprite.github.io/#!/) For pixel art.
     * [Krita](https://krita.org/en/) Free and open source 2D art software.
     * [Inkscape](https://inkscape.org/about/) Vector graphics!
+    * [Photopea](https://www.photopea.com/) A free photoshop alternative.
   * 3D Art:
     * [Blender](https://www.blender.org/) Free, open source and lots of tutorials available.
     * [MagicaVoxel](https://ephtracy.github.io/) Voxel editor.
@@ -26,3 +28,6 @@
     * [Miro](https://miro.com/index/) A big online whiteboard for brainstorming and organising.
     * [Codecks](https://www.codecks.io/) Made by game devs for project management.
     * [Obsidian](https://obsidian.md/) For notes and game design documents.
+    * [GitHub](https://github.com/) & [GitHub Desktop](https://desktop.github.com/download/) Source control so you don't have data loss and can work from multiple machines.
+___
+* # Asset Libraries
