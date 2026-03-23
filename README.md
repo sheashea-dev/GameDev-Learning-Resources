@@ -31,3 +31,6 @@ ___
     * [GitHub](https://github.com/) & [GitHub Desktop](https://desktop.github.com/download/) Source control so you don't have data loss and can work from multiple machines.
 ___
 * # Asset Libraries
+  * [Unity Asset Store](https://assetstore.unity.com/) Integrated with Unity, especially good for 3D Asset Packs.
+  * [Unreal Fab](https://www.unrealengine.com/marketplace/en-US/) Unreal's Asset store, will download with the engine.
+  * [Open Game Art](https://opengameart.org/) A mix of 2D assets, sprites, tilemaps and audio files.
