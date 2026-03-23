@@ -34,3 +34,9 @@ ___
   * [Unity Asset Store](https://assetstore.unity.com/) Integrated with Unity, especially good for 3D Asset Packs.
   * [Unreal Fab](https://www.unrealengine.com/marketplace/en-US/) Unreal's Asset store, will download with the engine.
   * [Open Game Art](https://opengameart.org/) A mix of 2D assets, sprites, tilemaps and audio files.
+  * [itch.io](https://itch.io/) Lots of indie assets.
+  * [GameTextures](https://gametextures.com/) Textures and meterials, great for 3D artists who like to model.
+  * [Freesound](https://freesound.org/) Royalty free sound and music assets.
+  * [Artstation](https://www.artstation.com/?sort_by=community&dimension=all) More great 3D game assets.
+___
+* # Guides and Tutorials
