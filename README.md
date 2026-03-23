@@ -35,8 +35,18 @@ ___
   * [Unreal Fab](https://www.unrealengine.com/marketplace/en-US/) Unreal's Asset store, will download with the engine.
   * [Open Game Art](https://opengameart.org/) A mix of 2D assets, sprites, tilemaps and audio files.
   * [itch.io](https://itch.io/) Lots of indie assets.
+  * [GameIcons](https://game-icons.net/) Free game icons great for UI implementation.
   * [GameTextures](https://gametextures.com/) Textures and meterials, great for 3D artists who like to model.
-  * [Freesound](https://freesound.org/) Royalty free sound and music assets.
   * [Artstation](https://www.artstation.com/?sort_by=community&dimension=all) More great 3D game assets.
+  * [Freesound](https://freesound.org/) Royalty free sound and music assets.
+  * [Musopen](https://musopen.org/) Royalty free music, classical and otherwise.
 ___
 * # Guides and Tutorials
+___
+* # Game Jams
+Game Jams are gamedev challenges where you aim to make a small game or demo in a short time frame like over a week. They're great for practicing your skills and getting ideas!
+  * [Global Game Jam](https://globalgamejam.org/) A yearly worldwide game jam with teams all over participating.
+  * [Ludum Dare](https://ludumdare.com/) A long running popular game jam.
+  * [itch.io](https://itch.io/jams) Itch is a place you can host your own game jams with friends.
+___
+* # Books
