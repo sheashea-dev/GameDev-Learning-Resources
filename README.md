@@ -55,6 +55,11 @@ Helpful YouTube channels will be listed below for each section, and I'll feature
       * [Smart Poly - Unreal Engine 5 Beginner Tutorials](https://www.youtube.com/playlist?list=PLncmXJdh4q88DFCEVuGpOY3AGQwBvoQnh)
    * [Unreal University](https://www.youtube.com/@UnrealUniversity) Covers everything to do with Unreal Engine, how the engine works and lots of game tutorials.
       * [Unreal University - How To Make A Retro FPS Game in Unreal](https://www.youtube.com/playlist?list=PL_tgHBzHSAu7hHtTyxFUSKPQW77-1cubM)
+ * Blender
+   * [Blender Guru](https://www.youtube.com/@blenderguru) An amazing channel to learn the basics of Blender and more advanced skills.
+     * [Blender Guru - Beginner Blender Tutorial 2026, Make A Donut](https://www.youtube.com/watch?v=z-Xl9tGqH14)
+   * [Crashune Academy](https://www.youtube.com/@CrashsuneAcademy) Particularly great 3D modeling guides for characters and 3D animation.
+     * [Crashune - Create Animated Low Poly Characters](https://www.youtube.com/playlist?list=PLcaQc6eQjXCzYski4EEr-iRfdkXkX-P3g)
 ___
 * # Game Jams
 Game Jams are gamedev challenges where you aim to make a small game or demo in a short time frame like over a week. They're great for practicing your skills and getting ideas!
