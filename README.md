@@ -52,9 +52,9 @@ Helpful YouTube channels will be listed below for each section, and I'll feature
       * [Code Monkey - Systems from Popular Games](https://www.youtube.com/playlist?list=PLzDRvYVwl53v8c8YAZI3cQ7HmFAWRJYgs)
  * Unreal Engine
    * [Smart Poly](https://www.youtube.com/@SmartPoly) This channel covers Unreal basics as well as some 3D modeling.
-     *[Smart Poly - Unreal Engine 5 Beginner Tutorials](https://www.youtube.com/playlist?list=PLncmXJdh4q88DFCEVuGpOY3AGQwBvoQnh)
+      * [Smart Poly - Unreal Engine 5 Beginner Tutorials](https://www.youtube.com/playlist?list=PLncmXJdh4q88DFCEVuGpOY3AGQwBvoQnh)
    * [Unreal University](https://www.youtube.com/@UnrealUniversity) Covers everything to do with Unreal Engine, how the engine works and lots of game tutorials.
-     *[Unreal University - How To Make A Retro FPS Game in Unreal](https://www.youtube.com/playlist?list=PL_tgHBzHSAu7hHtTyxFUSKPQW77-1cubM)
+      * [Unreal University - How To Make A Retro FPS Game in Unreal](https://www.youtube.com/playlist?list=PL_tgHBzHSAu7hHtTyxFUSKPQW77-1cubM)
 ___
 * # Game Jams
 Game Jams are gamedev challenges where you aim to make a small game or demo in a short time frame like over a week. They're great for practicing your skills and getting ideas!
