@@ -52,22 +52,34 @@ Helpful YouTube channels will be listed below for each section, and I'll feature
 
   * Unity
     * [Velvary](https://www.youtube.com/@VelvaryGames) Features some guides that I personally used to start learning Unity, underrated for beginners.
+    
       * [Velvary - Start With Your 2D Game](https://www.youtube.com/playlist?list=PLJBcv4t1EiSysOLQnh2AwqmD9QTg9Qlx-)
+        
     * [Brackeys](https://www.youtube.com/@Brackeys) One of the best channels on YouTube for learning Unity and general game design and development, worth wathing no matter your skill level.
+      
       * [Brackeys - Unity Intermediate Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J)
+        
     * [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) Similar to Brackeys, another great channel for learning Unity, also has some focus on programming.
+      
       * [Code Monkey - Systems from Popular Games](https://www.youtube.com/playlist?list=PLzDRvYVwl53v8c8YAZI3cQ7HmFAWRJYgs)
       
  * Unreal Engine
    * [Smart Poly](https://www.youtube.com/@SmartPoly) This channel covers Unreal basics as well as some 3D modeling.
+     
       * [Smart Poly - Unreal Engine 5 Beginner Tutorials](https://www.youtube.com/playlist?list=PLncmXJdh4q88DFCEVuGpOY3AGQwBvoQnh)
+        
    * [Unreal University](https://www.youtube.com/@UnrealUniversity) Covers everything to do with Unreal Engine, how the engine works and lots of game tutorials.
+     
       * [Unreal University - How To Make A Retro FPS Game in Unreal](https://www.youtube.com/playlist?list=PL_tgHBzHSAu7hHtTyxFUSKPQW77-1cubM)
       
  * Blender
+   
    * [Blender Guru](https://www.youtube.com/@blenderguru) An amazing channel to learn the basics of Blender and more advanced skills.
+     
      * [Blender Guru - Beginner Blender Tutorial 2026, Make A Donut](https://www.youtube.com/watch?v=z-Xl9tGqH14)
+       
    * [Crashune Academy](https://www.youtube.com/@CrashsuneAcademy) Particularly great 3D modeling guides for characters and 3D animation.
+     
      * [Crashune - Create Animated Low Poly Characters](https://www.youtube.com/playlist?list=PLcaQc6eQjXCzYski4EEr-iRfdkXkX-P3g)
    
 ___
