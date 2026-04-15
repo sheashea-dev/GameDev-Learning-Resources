@@ -42,6 +42,14 @@ ___
   * [Musopen](https://musopen.org/) Royalty free music, classical and otherwise.
 ___
 * # Guides and Tutorials
+Helpful YouTube channels will be listed below for each section, and I'll feature a playlist or video that's particularly good.
+  * Unity
+    * [Velvary](https://www.youtube.com/@VelvaryGames) Features some guides that I personally used to start learning Unity, underrated for beginners.
+      * [Velvary - Start With Your 2D Game](https://www.youtube.com/playlist?list=PLJBcv4t1EiSysOLQnh2AwqmD9QTg9Qlx-)
+    * [Brackeys](https://www.youtube.com/@Brackeys) One of the best channels on YouTube for learning Unity and general game design and development, worth wathing no matter your skill level.
+      * [Brackeys - Unity Intermediate Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J)
+    * [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) Similar to Brackeys, another great channel for learning Unity, also has some focus on programming.
+      * [Code Monkey - Systems from Popular Games](https://www.youtube.com/playlist?list=PLzDRvYVwl53v8c8YAZI3cQ7HmFAWRJYgs) 
 ___
 * # Game Jams
 Game Jams are gamedev challenges where you aim to make a small game or demo in a short time frame like over a week. They're great for practicing your skills and getting ideas!
