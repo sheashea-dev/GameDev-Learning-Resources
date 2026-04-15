@@ -53,8 +53,8 @@ Helpful YouTube channels will be listed below for each section, and I'll feature
 ___
 * # Game Jams
 Game Jams are gamedev challenges where you aim to make a small game or demo in a short time frame like over a week. They're great for practicing your skills and getting ideas!
-    * [Global Game Jam](https://globalgamejam.org/) A yearly worldwide game jam with teams all over participating.
-    * [Ludum Dare](https://ludumdare.com/) A long running popular game jam.
-    * [itch.io](https://itch.io/jams) Itch is a place you can host your own game jams with friends.
+  * [Global Game Jam](https://globalgamejam.org/) A yearly worldwide game jam with teams all over participating.
+  * [Ludum Dare](https://ludumdare.com/) A long running popular game jam.
+  * [itch.io](https://itch.io/jams) Itch is a place you can host your own game jams with friends.
 ___
 * # Books
