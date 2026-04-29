@@ -55,7 +55,7 @@ Helpful YouTube channels will be listed below for each section, and I'll feature
     
       * [Velvary - Start With Your 2D Game](https://www.youtube.com/playlist?list=PLJBcv4t1EiSysOLQnh2AwqmD9QTg9Qlx-)
         
-    * [Brackeys](https://www.youtube.com/@Brackeys) One of the best channels on YouTube for learning Unity and general game design and development, worth wathing no matter your skill level.
+    * [Brackeys](https://www.youtube.com/@Brackeys) One of the best channels on YouTube for learning Unity and general game design and development, worth watching no matter your skill level.
       
       * [Brackeys - Unity Intermediate Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J)
         
