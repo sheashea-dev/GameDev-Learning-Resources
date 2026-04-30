@@ -1,6 +1,7 @@
 # GameDev-Learning-Resources
 ___
 * # Development Software
+These are the foundations for making your games, no software is worng to use! Try everything out.
   * 2D Art:
     * [Libresprite](https://libresprite.github.io/#!/) For pixel art.
     * [Krita](https://krita.org/en/) Free and open source 2D art software.
@@ -37,6 +38,7 @@ ___
     
 ___
 * # Asset Libraries
+Making your own assets is great but if it's not something you focus on, or you're doing a project in a short time, there are lots of free assets available. 
   * [Unity Asset Store](https://assetstore.unity.com/) Integrated with Unity, especially good for 3D Asset Packs.
   * [Unreal Fab](https://www.unrealengine.com/marketplace/en-US/) Unreal's Asset store, will download with the engine.
   * [Open Game Art](https://opengameart.org/) A mix of 2D assets, sprites, tilemaps and audio files.
@@ -91,6 +93,3 @@ Game Jams are gamedev challenges where you aim to make a small game or demo in a
   * [Ludum Dare](https://ludumdare.com/) A long running popular game jam.
    
   * [itch.io](https://itch.io/jams) Itch is a place you can host your own game jams with friends.
-
-___
-* # Books
